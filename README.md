@@ -3,15 +3,15 @@ HealthCure is a website in which 4 disease detections models are there using the
 ## Steps to run this website:
 1. Download anaconda https://www.anaconda.com/download/
 2. Create a conda environment and install the required libraries
-   
+   ```
    conda create -n ayurcare python=3.9
    conda activate ayurcare 
    pip install opencv-python numpy tensorflow scikit-learn==0.24.2 imutils flask xgboost
-   
+   ```
 4. When you have successfully created the environment, installed the required libraries, and activated it, simply run the following command in the terminal.
-
+   ```
    flask run
-
+   ```
 ### The Datasets used to train the model are:
 - [Brain Tumour dataset:](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 - [Breast Cancer dataset:](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
@@ -20,6 +20,7 @@ HealthCure is a website in which 4 disease detections models are there using the
 - [Pneumonia Dataset2:](https://www.kaggle.com/paulti/chest-xray-images).
 
 ####   Preview of our website
-   ![Screenshot 2023-11-21 180504](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/2502af14-0eec-4828-8b2a-bccf98b43aa0)
-   ![Screenshot 2023-11-07 230919](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/17285474-ec6f-4041-9881-0d23841fa8d2)
-   ![Screenshot 2023-11-07 231035](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/904a4039-3bbd-43b8-8484-85d9a11ee61e)
+![Screenshot 2023-11-22 171445](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/2e0c4f7e-f194-4592-a815-57b9aa07c691)
+![Screenshot 2023-11-07 230919](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/f431f846-bf58-48b1-9192-af7ac6a62059)
+![Screenshot 2023-11-07 231035](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/80da85e7-4861-4d79-adf9-23e5312030fb)
+
