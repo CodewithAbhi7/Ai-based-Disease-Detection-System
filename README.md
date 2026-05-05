@@ -51,11 +51,11 @@ flask run
 ```
 
 ## The Datasets used to train the model are:
-- [Brain Tumour dataset:](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
-- [Breast Cancer dataset:](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
-- [Diabetes dataset:](https://www.kaggle.com/datasets/saurabh00007/diabetescsv)
-- [Pneumonia Dataset1:](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-- [Pneumonia Dataset2:](https://www.kaggle.com/paulti/chest-xray-images).
+- [Brain Tumour dataset](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+- [Breast Cancer dataset](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
+- [Diabetes dataset](https://www.kaggle.com/datasets/saurabh00007/diabetescsv)
+- [Pneumonia Dataset1](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- [Pneumonia Dataset2](https://www.kaggle.com/paulti/chest-xray-images).
 
 ##   Preview of the website
 ![Screenshot 2023-11-22 171445](https://github.com/CodewithAbhi7/Ai-based-Disease-Detection-System/assets/112254825/2e0c4f7e-f194-4592-a815-57b9aa07c691)
